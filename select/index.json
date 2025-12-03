@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "you are my curse",
+  "base_artist": "nyamura",
+  "createdAt": "2025-12-03T05:14:50.172424Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "you are my curse",
+      "artist": "nyamura",
+      "has_synced": true,
+      "path": "select/01_you_are_my_curse_nyamura.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "you are my curse (Cover)",
+      "artist": "Kotoha",
+      "has_synced": true,
+      "path": "select/02_you_are_my_curse_(Cover)_Kotoha.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "you are my curse",
+      "artist": "nyamura",
+      "has_synced": false,
+      "path": "select/03_you_are_my_curse_nyamura.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "you are my curse",
+      "artist": "nyamura",
+      "has_synced": false,
+      "path": "select/pl_01_you_are_my_curse_nyamura.txt"
+    }
+  ]
+}
